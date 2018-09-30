@@ -1,0 +1,8 @@
+[TRACE] 2018-09-30 17:42:58.888 [main] MultipleWindow - This is trace message
+[INFO ] 2018-09-30 17:42:58.895 [main] MultipleWindow - This is information massage
+[ERROR] 2018-09-30 17:42:58.895 [main] MultipleWindow - This is error massage
+[WARN ] 2018-09-30 17:42:58.896 [main] MultipleWindow - This is warnig massage
+[FATAL] 2018-09-30 17:42:58.896 [main] MultipleWindow - This is fatal massage
+[INFO ] 2018-09-30 18:28:21.189 [main] LogExample - Implicit wait given
+[INFO ] 2018-09-30 18:28:27.936 [main] LogExample - Browser Opened
+[INFO ] 2018-09-30 18:28:29.185 [main] LogExample - Mobile no Entered
