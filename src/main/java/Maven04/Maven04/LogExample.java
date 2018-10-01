@@ -24,7 +24,7 @@ public class LogExample {
 		
 		 driver.get("https://www.billdesk.com/pgidsk/pgmerc/vodafone/VODAFONEDN_details.jsp"); 
 		 logger.info("Browser Opened");
-		 
+		      
 		 driver.findElement(By.id("txtCustomerID")).sendKeys("879587434");
 		 
 		 logger.info("Mobile no Entered");
